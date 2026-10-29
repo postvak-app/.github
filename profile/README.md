@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.svg" alt="Postvak" width="364"></p>
+<p align="center"><img src="logo.svg" alt="Postvak" width="382"></p>
 
 <p align="center"><b>Your inbox, organized by rules you write.</b></p>
 
